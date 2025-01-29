@@ -1,4 +1,7 @@
 public class Oscar {
-    String nombre;
-    int edad;
+    public String nombre;
+    public int edad;
+    void saludar() {
+        System.out.println("Hola soy " + nombre);
+    }
 }
