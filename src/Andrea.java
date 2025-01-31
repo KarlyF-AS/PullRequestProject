@@ -1,5 +1,5 @@
 public class Andrea {
-    Kuromi
-    My Melody
-    Pompompurin
+    public static void main(String[] args) {
+        System.out.println("Algo funcional");
+    }
 }
